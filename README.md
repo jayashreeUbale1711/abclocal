@@ -1,1 +1,1 @@
-# abclocal
+opne file abc.local
